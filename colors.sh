@@ -25,7 +25,11 @@ print_bordered_line() {
         padding="${padding} "
     done
 
-    printf "${GREEN}\e[1m┌%s┐${NC}\n" "$border_line"
-    printf "${GREEN}\e[1m│${NC}%s%s%s   ${GREEN}\e[1m│${NC}\n" "$padding" "$text" "$padding"
-    printf "${GREEN}\e[1m└%s┘${NC}\n" "$border_line"
+    # Select a random color from the specified colors
+    local colors=("$RED" "$GREEN" "$YELLOW" "$CYAN" "$ORANGE")
+    local random_color="${colors[RANDOM % ${#colors[@]}]}"
+
+    printf "%b┌%s┐%b\n" "$random_color" "$border_line" "$NC"
+    printf "%b│%s%s%s   %b│%b\n" "$random_color" "$padding" "$text" "$padding" "$random_color" "$NC"
+    printf "%b└%s┘%b\n" "$random_color" "$border_line" "$NC"
 }
