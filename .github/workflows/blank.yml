@@ -1,0 +1,21 @@
+name: Test the script.
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deployment:
+    runs-on: ubuntu-latest
+    environment: production
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Bash
+      uses: actions/setup-node@v2
+      with:
+        node-version: '14'
+      
+    - name: Execute colors.sh
+      run: bash colors.sh
