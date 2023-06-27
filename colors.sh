@@ -27,7 +27,7 @@ print_bordered_line() {
 
     # Select a random color from the specified colors
     local colors=("$RED" "$GREEN" "$YELLOW" "$CYAN" "$ORANGE")
-    local random_color="${colors[RANDOM % ${#colors[@]}]}"
+    local random_color=$(shuf -e "${colors[@]}" -n 1)
 
     printf "%b┌%s┐%b\n" "$random_color" "$border_line" "$NC"
     printf "%b│%s%s%s   %b│%b\n" "$random_color" "$padding" "$text" "$padding" "$random_color" "$NC"
