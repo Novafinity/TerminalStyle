@@ -17,5 +17,8 @@ jobs:
       with:
         node-version: '14'
       
-    - name: Execute colors.sh
-      run: bash colors.sh & print_bordered_line "TerminStyle - Developed by KingMaj0r."
+    - name: Execute colors.sh and source it
+      run: |
+        bash colors.sh
+        source colors.sh
+        print_bordered_line " TerminalStyle - Developed by KingMaj0r."
