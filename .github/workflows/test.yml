@@ -18,4 +18,4 @@ jobs:
         node-version: '14'
       
     - name: Execute colors.sh
-      run: bash colors.sh
+      run: bash colors.sh & print_bordered_line "TerminStyle - Developed by KingMaj0r."
