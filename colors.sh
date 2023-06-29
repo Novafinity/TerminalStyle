@@ -26,6 +26,6 @@ print_bordered_line() {
     done
 
     printf "${GREEN}\e[1m┌%s┐${NC}\n" "$border_line"
-    printf "${GREEN}\e[1m│${NC}%s%s%s${GREEN}\e[1m│${NC}\n" "$padding" "$text" "$padding"
+    printf "${GREEN}\e[1m│${NC}%s%s%s  ${GREEN}\e[1m│${NC}\n" "$padding" "$text" "$padding"
     printf "${GREEN}\e[1m└%s┘${NC}\n" "$border_line"
 }
