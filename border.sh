@@ -1,10 +1,7 @@
 #!/bin/bash
 
-# Download the colors.sh file from the GitHub repository
-curl -O https://raw.githubusercontent.com/Novafinity/TerminalStyle/master/colors.sh >/dev/null 2>&1 &
-
 # Source the colors.sh file
-source colors.sh
+source <(curl -sSL "https://raw.githubusercontent.com/Novafinity/TerminalStyle/master/colors.sh")
 
 # Function to generate a random color code
 generate_random_color() {
