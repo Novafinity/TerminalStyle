@@ -5,7 +5,7 @@ source <(curl -sSL "https://raw.githubusercontent.com/Novafinity/TerminalStyle/m
 
 # Function to generate a random color code
 generate_random_color() {
-    local colors=($(grep -oP '(?<=export )\w+'))
+    local colors=($(compgen -v | grep -P '^export ' | grep -Po '\$\K\w+'))
     local color_count=${#colors[@]}
     local random_index=$((RANDOM % color_count))
     echo "${colors[random_index]}"
