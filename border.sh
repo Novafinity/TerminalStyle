@@ -1,8 +1,14 @@
 #!/bin/bash
 
+# Download the colors.sh file from the GitHub repository
+curl -O https://raw.githubusercontent.com/Novafinity/TerminalStyle/master/colors.sh
+
+# Source the colors.sh file
+source colors.sh
+
 # Function to generate a random color code
 generate_random_color() {
-    local colors=("\033[0;31m" "\033[0;32m" "\033[0;33m" "\033[0;36m" "\033[0;91m")
+    local colors=($(grep -oP '(?<=export )\w+' colors.sh))
     local color_count=${#colors[@]}
     local random_index=$((RANDOM % color_count))
     echo "${colors[random_index]}"
@@ -26,8 +32,9 @@ print_bordered_line() {
     done
 
     local random_color=$(generate_random_color)
+    local text_color=$WHITE
 
     printf "${random_color}\e[1m┌%s┐${NC}\n" "$border_line"
-    printf "${random_color}\e[1m│${NC}%s%s%s  ${random_color}\e[1m│${NC}\n" "$padding" "$text" "$padding"
+    printf "${random_color}\e[1m│${text_color}%s%s%s  ${random_color}\e[1m│${NC}\n" "$padding" "$text" "$padding"
     printf "${random_color}\e[1m└%s┘${NC}\n" "$border_line"
 }
