@@ -1,16 +1,14 @@
 #!/bin/bash
 
-# Source the colors.sh file and capture the exported color variables
-colors=$(source <(curl -sSL "https://raw.githubusercontent.com/Novafinity/TerminalStyle/master/colors.sh") && export -p | grep -oP '^declare -x \K\w+(?==)')
-
-# Convert the colors into an array
-IFS=' ' read -r -a color_array <<< "$colors"
+# Source the colors.sh file
+source <(curl -sSL "https://raw.githubusercontent.com/Novafinity/TerminalStyle/master/colors.sh")
 
 # Function to generate a random color code
 generate_random_color() {
-    local color_count=${#color_array[@]}
+    local colors=($(compgen -v | grep -P '^export ' | grep -Po '\$\K\w+'))
+    local color_count=${#colors[@]}
     local random_index=$((RANDOM % color_count))
-    echo "${color_array[random_index]}"
+    echo "${colors[random_index]}"
 }
 
 # Function to print a bordered line with larger text
@@ -20,26 +18,18 @@ print_bordered_line() {
     local border_length=70
 
     local border_line=""
-    for i in $(seq 1 "$border_length"); do
+    for i in $(seq 1 $border_length); do
         border_line="${border_line}─"
     done
 
     local padding_length=$(( (border_length - text_length - 2) / 2 ))
     local padding=""
-    for i in $(seq 1 "$padding_length"); do
+    for i in $(seq 1 $padding_length); do
         padding="${padding} "
     done
 
     local random_color=$(generate_random_color)
-
-    local color_code=""
-    for color in "${color_array[@]}"; do
-        if [[ "$color" == "$random_color" ]]; then
-            # Set the color code based on the random_color
-            color_code="${!color}"
-            break
-        fi
-    done
+    local color_code="${!random_color}"
 
     printf "${color_code}\e[1m┌%s┐${NC}\n" "$border_line"
     printf "${color_code}\e[1m│${NC}%s${text}${NC}%s  ${color_code}\e[1m│${NC}\n" "$padding" "$padding"
