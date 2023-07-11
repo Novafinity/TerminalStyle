@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Source the colors.sh file and capture the exported color variables
-colors=$(source <(curl -sSL "https://raw.githubusercontent.com/Novafinity/TerminalStyle/master/colors.sh") && export -p | grep -P '^declare -x \K\w+(?==)')
+colors=$(source <(curl -sSL "https://raw.githubusercontent.com/Novafinity/TerminalStyle/master/colors.sh") && export -p | grep -oP '^declare -x \K\w+(?==)')
 
 # Convert the colors into an array
-read -r -a color_array <<< "$colors"
+IFS=' ' read -r -a color_array <<< "$colors"
 
 # Function to generate a random color code
 generate_random_color() {
