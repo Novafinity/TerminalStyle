@@ -32,9 +32,8 @@ print_bordered_line() {
     done
 
     local random_color=$(generate_random_color)
-    local text_color=$WHITE
 
     printf "${random_color}\e[1m┌%s┐${NC}\n" "$border_line"
-    printf "${random_color}\e[1m│${text_color}%s%s%s  ${random_color}\e[1m│${NC}\n" "$padding" "$text" "$padding"
+    printf "${random_color}\e[1m│${NC}%s${text_color}%s${NC}%s  ${random_color}\e[1m│${NC}\n" "$padding" "$text" "$padding"
     printf "${random_color}\e[1m└%s┘${NC}\n" "$border_line"
 }
