@@ -17,6 +17,6 @@ jobs:
       with:
         node-version: '14'
       
-    - name: Execute colors.sh and source it
+    - name: Test the script.
       run: |
         bash run.sh
