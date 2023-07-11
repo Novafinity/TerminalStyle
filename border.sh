@@ -31,8 +31,12 @@ print_bordered_line() {
     done
 
     local random_color=$(generate_random_color)
+    local color_variable="${random_color^^}"
 
-    printf "${!random_color}\e[1m┌%s┐${NC}\n" "$border_line"
-    printf "${!random_color}\e[1m│${NC}%s${text}${NC}%s  ${!random_color}\e[1m│${NC}\n" "$padding" "$padding"
-    printf "${!random_color}\e[1m└%s┘${NC}\n" "$border_line"
+    # Evaluate the color variable to get the actual color code
+    eval "local color_code=\$$color_variable"
+
+    printf "${color_code}\e[1m┌%s┐${NC}\n" "$border_line"
+    printf "${color_code}\e[1m│${NC}%s${text}${NC}%s  ${color_code}\e[1m│${NC}\n" "$padding" "$padding"
+    printf "${color_code}\e[1m└%s┘${NC}\n" "$border_line"
 }
