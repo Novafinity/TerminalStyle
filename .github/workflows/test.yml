@@ -19,6 +19,4 @@ jobs:
       
     - name: Execute colors.sh and source it
       run: |
-        bash colors.sh
-        source colors.sh
-        print_bordered_line " TerminalStyle - Developed by KingMaj0r."
+        bash run.sh
