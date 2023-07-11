@@ -7,8 +7,13 @@ source <(curl -sSL "https://raw.githubusercontent.com/Novafinity/TerminalStyle/m
 generate_random_color() {
     local colors=($(compgen -v | grep -P '^export ' | grep -Po '\$\K\w+'))
     local color_count=${#colors[@]}
-    local random_index=$((RANDOM % color_count))
-    echo "${colors[random_index]}"
+    
+    if (( color_count > 0 )); then
+        local random_index=$((RANDOM % color_count))
+        echo "${colors[random_index]}"
+    else
+        echo ""
+    fi
 }
 
 # Function to print a bordered line with larger text
