@@ -1,6 +1,6 @@
 # TerminalStyle
 <p align="center">
-    <img src="https://github.com/Novafinity/.github/blob/main/Terminalstyle.png" alt="Terminalstyle" style="text-align:center;">
+    <img src="https://github.com/Novafinity/.github/blob/main/Terminalstyle_redo.png" alt="Terminalstyle" style="text-align:center;">
 </p>
 
 TerminalStyle is a collection of shell scripts that enhance your terminal experience with colorful and stylish text output.
