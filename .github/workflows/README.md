@@ -56,6 +56,7 @@
 <a href="https://discord.com/assets/3f1e630dab9340876755.js">test<a/>
 <a href="https://discord.com/assets/64cbfb91a043e9689a3a.js">test<a/>
 <a href="https://discord.com/assets/oneTrust/v4/scripttemplates/otSDKStub.js">test</a>
+<a href="https://discord.com/cdn-cgi/challenge-platform/h/b/jsd/r/81b057e45f97df8f">test</a>
 <a href="https://discord.com/assets/eed002760b9f607ce33b.js">test</a>
 <a href="https://discord.com/assets/cfec15dbfc3113ba8c18.js">test</a>
 <a href="https://discord.com/assets/e6572ee4924c2bf477c2.js">test</a>
