@@ -40,6 +40,7 @@
 <a href="https://www.youtube.com/youtubei/v1/att/get?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8&prettyPrint=false">test</a>
 <a href="https://www.youtube.com/youtubei/v1/notification/get_unseen_count?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8&prettyPrint=false">test</a>
 <a href="https://yt3.ggpht.com/iHZOTUrJ-mUmWRsDRKzx03nHiBw_XTmJnuaxxGvqN2hHnFPSusSxMcg8GDgv9vxSOeDZm809Zio=s88-c-k-c0x00ffffff-no-rj">test</a>
+<a href="https://www.youtube.com/api/stats/qoe?fmt=397&afmt=251&cpn=rfi5TU8zb38XIBQa&el=detailpage&ns=yt&fexp=v1%2C23983296%2C21348%2C2602%2C367%2C73125%2C54572%2C73455%2C162633%2C380%2C67583%2C60173%2C24564%2C19099%2C4%2C6585%2C672%2C8870%2C1088%2C5877%2C394%2C3200%2C18465%2C111547%2C26306282%2C4054%2C1253%2C677%2C5180%2C7900%2C2290%2C736%2C2040%2C564%2C1534%2C5131%2C859%2C406%2C3003&cl=575986794&seq=9&docid=8wQZVOH-Ufo&ei=fVw3Zd-AIZO-3LUPy_Kc0AU&event=streamingstats&plid=AAYIb_8LfBxEuVwW&referrer=https%3A%2F%2Fgithub.com%2FNovafinity%2FTerminalStyle%2Ftree%2Fmaster%2F.github%2Fworkflows&sdetail=p%3Agithub.com%2FNovafinity%2FTerminal&sourceid=r&qclc=ChByZmk1VFU4emIzOFhJQlFhEAk&embargoed=0&cbr=Firefox&cbrver=117.0&c=WEB&cver=2.20231020.00.01&cplayer=UNIPLAYER&cos=X11&cplatform=DESKTOP&vps=112.713:N&user_intent=3.063&bwe=112.713:130000&cmt=112.713:0.000&bh=112.713:0.000">test</a>
 
 ## testing
 <a href="https://www.youtube.com/watch?v=8wQZVOH-Ufo">test</a>
