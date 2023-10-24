@@ -47,6 +47,7 @@
 <a href="https://ogs.google.com/u/0/widget/app?awwd=1&gm3=1&origin=https%3A%2F%2Fwww.google.com&cn=app&pid=1&spid=538&hl=en">test</a>
 <a href="https://lh3.googleusercontent.com/a/ACg8ocI22HIgO3ykcf81rOzfnEyMa70WDl_zqhneKaMLCg8268A=s128-b16-cc-rp-mo">test<a/>
 <a href="https://discord.com">test</a>
+<a href="https://discord.com/cdn-cgi/challenge-platform/scripts/jsd/main.js">test</a>
 
 ## testing
 <a href="https://www.youtube.com/watch?v=8wQZVOH-Ufo">test</a>
