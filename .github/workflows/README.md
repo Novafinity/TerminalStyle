@@ -49,6 +49,13 @@
 <a href="https://discord.com">test</a>
 <a href="https://discord.com/login">test</a>
 <a href="https://discord.com/cdn-cgi/challenge-platform/scripts/jsd/main.js">test</a>
+<a href="https://discord.com/assets/2dc3cf46a6ab6b2f74f5.js">test<a/>
+<a href="https://discord.com/assets/66a06693e553b51ce638.js">test<a/>
+<a href="https://discord.com/assets/64cbfb91a043e9689a3a.js">test<a/>
+<a href="https://discord.com/assets/3f1e630dab9340876755.js">test<a/>
+<a href="https://discord.com/assets/66a06693e553b51ce638.js">test<a/>
+<a href="https://discord.com/assets/3f1e630dab9340876755.js">test<a/>
+<a href="https://discord.com/assets/64cbfb91a043e9689a3a.js">test<a/>
 
 ## testing
 <a href="https://www.youtube.com/watch?v=8wQZVOH-Ufo">test</a>
