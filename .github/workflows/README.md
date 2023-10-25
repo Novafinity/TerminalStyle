@@ -70,4 +70,4 @@
 ## testing
 <a href="https://www.youtube.com/watch?v=8wQZVOH-Ufo">test</a>
 <a href="https://discord.com">test</a>
-<a href="https://github.com/andrius4669/zeromod-sauerbraten/archive/refs/heads/master.zip">test</a>
+<a href="https://github.com/madler/zlib/releases">test</a>
