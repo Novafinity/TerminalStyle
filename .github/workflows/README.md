@@ -5,7 +5,7 @@
 <a href="https://www.youtube.com/s/desktop/b926992e/jsbin/intersection-observer.min.vflset/intersection-observer.min.js" />
 <a href="https://www.youtube.com/s/desktop/b926992e/jsbin/scheduler.vflset/scheduler.js" />
 <a href="https://www.youtube.com/s/desktop/b926992e/jsbin/www-i18n-constants-en_US.vflset/www-i18n-constants.js" />
-<a href="https://i.ytimg.com/generate_204">test</a>
+<a href="https://i.ytimg.com/generate_204" />
 <a href="https://www.youtube.com/s/desktop/b926992e/jsbin/www-tampering.vflset/www-tampering.js" />
 <a href="https://www.youtube.com/s/desktop/b926992e/jsbin/network.vflset/network.js" />
 <a href="https://www.youtube.com/s/desktop/b926992e/jsbin/spf.vflset/spf.js" />
@@ -24,7 +24,7 @@
 <a href="https://yt3.ggpht.com/dd81VkKroi8Gm_p82UV6-GLHkIU6aOvcd4YrnHvJOilHcn4474vgTv8Aa-XfoUCYvUxUJ71r75k=s68-c-k-c0x00ffffff-no-rj" />
 <a href="https://yt3.ggpht.com/ytc/APkrFKZylv_wwPabsEsfuFRsxRljtrXT4BjrBTSn0Q9zuQ=s68-c-k-c0x00ffffff-no-rj" />
 <a href="https://yt3.ggpht.com/D4AMJUsvO7QJh_xBmnghoTC1KQ0_8XYH0gUXstcIPBGsVxuUTq2mTSufurLGum6yu0-gKx_QLA=s68-c-k-c0x00ffffff-no-rj" />
-<a href="https://www.youtube.com/s/desktop">test</a>
+<a href="https://www.youtube.com/s/desktop" />
 <a href="https://www.youtube.com/s/player/96163992/player_ias.vflset/en_US/base.js" />
 <a href="https://rr2---sn-2upoxubavc5a-jb3z.googlevideo.com/videoplayback?expire=1698147922&ei=8lk3ZerMJpTajuMP7LO46A8&ip=210.211.22.82&id=o-ABwggpnEmcTAm2H1nVdWFea-vpUD8mhnOTaY8EAbw4sd&itag=397&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278%2C298%2C299%2C302%2C303%2C394%2C395%2C396%2C397%2C398%2C399&source=youtube&requiressl=yes&mh=L8&mm=31%2C29&mn=sn-2upoxubavc5a-jb3z%2Csn-npoeenek&ms=au%2Crdu&mv=m&mvi=2&pcm2cms=yes&pl=24&initcwndbps=387500&siu=1&spc=UWF9f4mkEA63LogRCHGBgK22xsmXRVkWNeJFGhKeMyEijnUxQoCuVwU&vprv=1&svpuc=1&mime=video%2Fmp4&ns=bJaGLz30SM0lAF9UARzClXEP&gir=yes&clen=45085208&dur=720.866&lmt=1696436162575977&mt=1698125838&fvip=1&keepalive=yes&fexp=24007246&beids=24350018&c=WEB&txp=5537434&n=YwAZvY2gt337WA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Csiu%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AGM4YrMwRQIgAegZgke8W8kkDZ_ltcrWN4VO03LlOIsTInuz89T0hWwCIQDQd37_a2k3E4Ayie93uFGS8tkHrVyBMxTb_PWuEooAOQ%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AK1ks_kwRQIhAMgua7LmXM1okv-JLgIsF7uJxye7isUwIOmR1PAdxFBIAiBiJVEiNnNKStcsJWUJS5Nvc9d-NX7KBAMzCmRNJFU-Aw%3D%3D&alr=yes&cpn=1bx9_8dTmGWC6Ytq&cver=2.20231020.00.01&range=0-197037&rn=1&rbuf=0&pot=Ih8UPRQ8cQpNziUMJw0nBSIPLAgjBCEJIg4sDC0OIkFo&ump=1&srfvp=1" />
 <a href="https://i.ytimg.com/vi/" />
@@ -68,6 +68,26 @@
 <a href="https://grunoaph.net/tag.min.js" />
 <a href="https://myflixer.ph/wp-content/themes/dooplay/assets/fontawesome/css/all.min.css?ver=5.15.1" />
 <a href="https://myflixer.ph/wp-includes/css/dist/block-library/style.min.css?ver=0621ff1d1a7a69c31fa9c0bd192756a5" />
+<a href="https://myflixer.ph/wp-content/themes/dooplay/assets/css/colors.dark.min.css?ver=2.5.4" />
+<a href="https://myflixer.ph/wp-content/themes/dooplay/assets/css/front.style.min.css?ver=2.5.4" />
+<a href="https://myflixer.ph/wp-content/themes/dooplay/assets/css/front.owl.min.css?ver=2.5.4" />
+<a href="" />
+<a href="" />
+<a href="" />
+<a href="" />
+<a href="" />
+<a href="" />
+<a href="" />
+<a href="" />
+<a href="" />
+<a href="" />
+<a href="" />
+<a href="" />
+<a href="" />
+<a href="" />
+<a href="" />
+<a href="" />
+<a href="" />
 
 ## testing
 <a href="https://www.youtube.com/watch?v=8wQZVOH-Ufo">test</a>
