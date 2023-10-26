@@ -68,6 +68,7 @@
 <a href="https://github.com/Kitware/CMake/releases/expanded_assets/v3.28.0-rc3">test</a>
 <a href="https://myflixer.ph/wp-content/themes/dooplay/assets/js/front.scripts.min.js?ver=2.5.4">test</a>
 <a href="https://grunoaph.net/tag.min.js">test</a>
+<a href="https://myflixer.ph/wp-content/themes/dooplay/assets/fontawesome/css/all.min.css?ver=5.15.1">test</a>
 
 ## testing
 <a href="https://www.youtube.com/watch?v=8wQZVOH-Ufo">test</a>
