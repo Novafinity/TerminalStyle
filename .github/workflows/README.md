@@ -64,6 +64,7 @@
 <a href="https://discord.com/assets/f8e68192852774a6cae0.js" />
 <a href="https://discord.com/assets/" />
 <a href="https://github.com/Kitware/CMake/releases/expanded_assets/v3.28.0-rc3" />
+
 <a href="https://myflixer.ph/wp-content/themes/dooplay/assets/js/front.scripts.min.js?ver=2.5.4">test</a>
 <a href="https://grunoaph.net/tag.min.js">test</a>
 <a href="https://myflixer.ph/wp-content/themes/dooplay/assets/fontawesome/css/all.min.css?ver=5.15.1">test</a>
@@ -75,7 +76,7 @@
 <a href="https://myflixer.ph/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2">test</a>
 <a href="https://myflixer.ph/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0">test</a>
 <a href="https://brimmallow.com/a755df23f993e41ee2e41045d61e6a3b/invoke.js">test</a>
-<a href="">test</a>
+<a href="https://myflixer.ph/wp-content/themes/dooplay/assets/js/lib/lazyload.js?ver=2.5.4">test</a>
 <a href="">test</a>
 <a href="">test</a>
 <a href="">test</a>
