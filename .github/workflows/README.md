@@ -72,7 +72,7 @@
 <a href="https://myflixer.ph/wp-content/themes/dooplay/assets/css/front.style.min.css?ver=2.5.4">test</a>
 <a href="https://myflixer.ph/wp-content/themes/dooplay/assets/css/front.owl.min.css?ver=2.5.4">test</a>
 <a href="https://myflixer.ph/wp-includes/js/jquery/jquery.min.js?ver=3.7.0">test</a>
-<a href="">test</a>
+<a href="https://myflixer.ph/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2">test</a>
 <a href="">test</a>
 <a href="">test</a>
 <a href="">test</a>
