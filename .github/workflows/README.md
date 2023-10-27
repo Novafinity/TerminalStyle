@@ -77,7 +77,7 @@
 <a href="https://myflixer.ph/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0">test</a>
 <a href="https://brimmallow.com/a755df23f993e41ee2e41045d61e6a3b/invoke.js">test</a>
 <a href="https://myflixer.ph/wp-content/themes/dooplay/assets/js/lib/lazyload.js?ver=2.5.4">test</a>
-<a href="">test</a>
+<a href="https://myflixer.ph/wp-content/uploads/2022/12/myflixer_logo.png">test</a>
 <a href="">test</a>
 <a href="">test</a>
 <a href="">test</a>
