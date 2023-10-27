@@ -134,13 +134,13 @@
 <a href="">test</a>
 <a href="">test</a>
 <a href="">test</a>
-<a href="">test</a>
-<a href="">test</a>
-<a href="">test</a>
-<a href="">test</a>
-<a href="">test</a>
-<a href="https://gdpr.tubi.tv/main.js">test</a>
-<a href="https://gdpr.tubi.tv/styles.css">test</a>
+<a href="https://www.crackle.com/_next/static/bzTSdp3ssPsTioyTiRSch/_ssgManifest.js">test</a>
+<a href="https://www.crackle.com/_next/static/chunks/pages/_app-f86f9fc2fc6451d0.js">test</a>
+<a href="https://www.crackle.com/_next/static/chunks/pages/index-e07d8c8a3844a307.js">test</a>
+<a href="https://www.crackle.com/_next/static/chunks/main-53a0bcd8553976d6.js">test</a>
+<a href="https://www.crackle.com/_next/static/chunks/framework-4ed89e9640adfb9e.js">test</a>
+<a href="https://www.crackle.com/_next/static/bzTSdp3ssPsTioyTiRSch/_buildManifest.js">test</a>
+<a href="https://www.crackle.com/_next/static/chunks/webpack-6f7418841855677e.js">test</a>
 
 ## testing
 <a href="https://www.youtube.com/watch?v=8wQZVOH-Ufo">test</a>
