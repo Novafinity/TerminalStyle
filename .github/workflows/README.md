@@ -130,8 +130,8 @@
 <a href="">test</a>
 <a href="">test</a>
 <a href="">test</a>
-<a href="">test</a>
-<a href="">test</a>
+<a href="https://www.crackle.com/assets/Sora-Bold.ttf">test</a>
+<a href="https://www.crackle.com/assets/Sora.ttf">test</a>
 <a href="https://www.crackle.com/_next/static/chunks/5167.c9c18fb6fa5603f6.js">test</a>
 <a href="https://www.crackle.com/_next/static/chunks/3593.bd64eb9173b1fe4e.js">test</a>
 <a href="https://www.crackle.com/_next/static/bzTSdp3ssPsTioyTiRSch/_ssgManifest.js">test</a>
