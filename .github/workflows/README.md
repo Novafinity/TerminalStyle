@@ -139,9 +139,9 @@
 <a href="">test</a>
 <a href="">test</a>
 <a href="">test</a>
-<a href="">test</a>
-<a href="">test</a>
-<a href="">test</a>
+<a href="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js">test</a>
+<a href="https://production-cmp.isgprivacy.cbsi.com/dist/optanon-v1.1.0.js">test</a>
+<a href="https://static-homepage-en.pluto.tv/hp-assets/js/bundle.js">test</a>
 
 ## testing
 <a href="https://www.youtube.com/watch?v=8wQZVOH-Ufo">test</a>
