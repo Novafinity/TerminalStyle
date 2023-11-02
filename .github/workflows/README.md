@@ -64,40 +64,6 @@
 <a href="https://discord.com/assets/f8e68192852774a6cae0.js" />
 <a href="https://discord.com/assets/" />
 <a href="https://github.com/Kitware/CMake/releases/expanded_assets/v3.28.0-rc3" />
-
-<a href="https://myflixer.ph/wp-content/themes/dooplay/assets/js/front.scripts.min.js?ver=2.5.4">test</a>
-<a href="https://grunoaph.net/tag.min.js">test</a>
-<a href="https://myflixer.ph/wp-content/themes/dooplay/assets/fontawesome/css/all.min.css?ver=5.15.1">test</a>
-<a href="https://myflixer.ph/wp-includes/css/dist/block-library/style.min.css?ver=0621ff1d1a7a69c31fa9c0bd192756a5">test</a>
-<a href="https://myflixer.ph/wp-content/themes/dooplay/assets/css/colors.dark.min.css?ver=2.5.4">test</a>
-<a href="https://myflixer.ph/wp-content/themes/dooplay/assets/css/front.style.min.css?ver=2.5.4">test</a>
-<a href="https://myflixer.ph/wp-content/themes/dooplay/assets/css/front.owl.min.css?ver=2.5.4">test</a>
-<a href="https://myflixer.ph/wp-includes/js/jquery/jquery.min.js?ver=3.7.0">test</a>
-<a href="https://myflixer.ph/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2">test</a>
-<a href="https://myflixer.ph/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0">test</a>
-<a href="https://brimmallow.com/a755df23f993e41ee2e41045d61e6a3b/invoke.js">test</a>
-<a href="https://myflixer.ph/wp-content/themes/dooplay/assets/js/lib/lazyload.js?ver=2.5.4">test</a>
-<a href="https://myflixer.ph/wp-content/uploads/2022/12/myflixer_logo.png">test</a>
-<a href="https://myflixer.ph/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11">test</a>
-<a href="https://myflixer.ph/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1">test</a>
-<a href="https://myflixer.ph/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef">test</a>
-<a href="https://myflixer.ph/wp-content/themes/dooplay/assets/js/front.livesearch.min.js?ver=2.5.4">test</a>
-<a href="https://myflixer.ph/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1">test</a>
-<a href="https://myflixer.ph/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef">test</a>
-<a href="https://myflixer.ph/wp-content/themes/dooplay/assets/js/front.livesearch.min.js?ver=2.5.4">test</a>
-<a href="https://myflixer.ph/wp-content/themes/dooplay/assets/css/front.crollbar.min.css?ver=2.5.4">test</a>
-<a href="https://myflixer.ph/wp-content/themes/dooplay/assets/css/front.mobile.min.css?ver=2.5.4">test</a>
-<a href="https://dfipringudkd.com/">test</a>
-<a href="https://myflixer.ph/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1">test</a>
-<a href="https://myflixer.ph/wp-content/themes/dooplay/assets/js/lib/pwsscrollbar.js?ver=2.5.4">test</a>
-<a href="https://www.googletagmanager.com/gtag/js?id=GT-K4ZV6JX">test</a>
-<a href="https://myflixer.ph/wp-content/themes/dooplay/assets/js/lib/isrepeater.js?ver=2.5.4">test</a>
-<a href="https://myflixer.ph/wp-content/themes/dooplay/assets/js/lib/idtabs.js?ver=2.5.4">test</a>
-<a href="https://myflixer.ph/wp-content/themes/dooplay/assets/js/lib/owlcarousel.js?ver=2.5.4">test</a>
-<a href="https://myflixer.ph/wp-content/themes/dooplay/assets/js/front.ajax.min.js?ver=2.5.4">test</a>
-<a href="https://myflixer.ph/wp-content/themes/dooplay/assets/js/lib/idtabs.js?ver=2.5.4">test</a>
-<a href="https://myflixer.ph/wp-content/themes/dooplay/assets/js/lib/isrepeater.js?ver=2.5.4">test</a>
-<a href="https://myflixer.ph/wp-content/themes/dooplay/assets/js/front.ajax.min.js?ver=2.5.4">test</a>
 <a href="https://grunoaph.net/tag.min.js">test</a>
 <a href="https://grunoaph.net/5/6148664/?oo=1&aab=1">test</a>
 <a href="https://www.google.com/search?">test</a>
@@ -143,7 +109,7 @@
 <a href="https://www.crackle.com/_next/static/chunks/webpack-6f7418841855677e.js">test</a>
 
 ## testing
-<a href="https://www.youtube.com/watch?v=8wQZVOH-Ufo">test</a>
+<a href="https://www.youtube.com">test</a>
 <a href="https://discord.com">test</a>
 <a href="https://github.com/madler/zlib/releases/download/v1.3/zlib13.zip">test</a>
 <a href="https://www.crackle.com/">test</a>
